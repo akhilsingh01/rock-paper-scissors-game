@@ -2,8 +2,6 @@
 
 A simple Rock, Paper, Scissors game built using **HTML**, **CSS**, and **JavaScript**. The player competes against the computer — first to 3 points wins! This project was developed as part of the [freeCodeCamp JavaScript Algorithms and Data Structures course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/), focusing on JavaScript logic and DOM manipulation.
 
----
-
 ## 🎮 Features
 
 - Choose between Rock, Paper, or Scissors
@@ -13,13 +11,18 @@ A simple Rock, Paper, Scissors game built using **HTML**, **CSS**, and **JavaScr
 - Option to play again after game over
 - Responsive and accessible UI
 
----
-
 ## 🚀 Live Demo
 
-👉 [Play the Game](https://akhilsingh01.github.io/rock-paper-scissors-js/)
+👉 [Play the Game](https://akhilsingh01.github.io/rock-paper-scissors-game/)
 
----
+### or run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/akhilsingh01/rock-paper-scissors-game.git
+   ```
+2. Open index.html in any web browser.
+3. Use the on-screen buttons to play the game.
 
 ## 🧠 What I Learned
 
@@ -37,15 +40,11 @@ A simple Rock, Paper, Scissors game built using **HTML**, **CSS**, and **JavaScr
 - **CSS3** (pre-written via freeCodeCamp)
 - **Vanilla JavaScript**
 
----
-
 ## 🧑‍💻 Author
 
 **Akhil Singh**   
 🔗 [LinkedIn](https://www.linkedin.com/in/akhilsingh01)  
 🔗 [GitHub](https://github.com/akhilsingh01)
-
----
 
 ## 📄 License
 
