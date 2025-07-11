@@ -13,6 +13,7 @@ A simple Rock, Paper, Scissors game built using **HTML**, **CSS**, and **JavaScr
 
 ## 🚀 Live Demo
 
+You can play the game directly here:
 👉 [Play the Game](https://akhilsingh01.github.io/rock-paper-scissors-game/)
 
 ### or run the project locally:
@@ -31,8 +32,6 @@ A simple Rock, Paper, Scissors game built using **HTML**, **CSS**, and **JavaScr
 - Updating the UI dynamically
 - Managing game state with JavaScript
 - Clean function structuring and modular code
-
----
 
 ## 🛠️ Tech Stack
 
